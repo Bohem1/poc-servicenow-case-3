@@ -1,1 +1,1 @@
-javascript: New line in existing file\nNew line in existing file\n New line in existing file
+javascript: "javascript: New line in existing file\nNew line in existing file\n New line in existing file\n New line in existing file"
